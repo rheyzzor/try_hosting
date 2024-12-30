@@ -6,7 +6,7 @@
 ## Soccer Analysis; ### About the Project; ###### Credits:
 **bold - use two asterisks**
 *italics - use 1 asterisks*
-
+[La Liga logo](https://assets.laliga.com/assets/logos/laliga-v/laliga-v-300x300.jpg)
 Content should be:
 Title
 Description of technology
